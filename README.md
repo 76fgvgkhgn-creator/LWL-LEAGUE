@@ -1,4 +1,4 @@
-# League SZN
+# LWL LEAGUE
 
 A serverless web application for managing a WWE 2K league with standings, championships, matches, tournaments, events, fantasy league, challenges, promos, statistics, and more.
 
